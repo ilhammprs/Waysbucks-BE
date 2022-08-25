@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
+	"os"
 	"waysbucks/database"
 	"waysbucks/pkg/mysql"
 	"waysbucks/routes"
